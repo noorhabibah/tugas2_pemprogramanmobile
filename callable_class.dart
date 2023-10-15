@@ -4,9 +4,7 @@ class Sum{
   
   Sum(this.first, this.second);
   
-  int call(){
-    return first + second;
-}
+  int call() => first + second;
 }
 
 //import 'Sum.dart';
